@@ -25,6 +25,6 @@ Uzyteczne komendy:
 | https://github.com/mateusz9438 	| Mateusz Orczykowski 	| 5 | 5 | 2 | 6 |   |
 | https://github.com/radekkania 	| Radek Kania 			| 5 | 5 | 0 | 4 |   |
 | https://github.com/p4cino			| Wojciech Puzio		| 5 | 0 | 0 | 6 |   |
-| https://github.com/riiff1			| Rafal Zasada			| 5 | gradle issue | gradle issue | 4 |   |
+| https://github.com/riiff1			| Rafal Zasada			| 5 | 4 | 2 | 4 |   |
 | https://github.com/muszkie		| Michal Muszyński		| 5 | 2 | 2 | 2 |   |
 | https://github.com/nonecover		| Adam Jakomilski		| 5 | 5 | 0 | 2 |   |
